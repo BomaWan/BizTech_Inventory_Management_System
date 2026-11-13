@@ -1,0 +1,5 @@
+Options -Indexes
+DirectoryIndex index.php
+<FilesMatch "\.(docx|pdf|md)$">
+    Require all denied
+</FilesMatch>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 226 94" width="226" height="94" role="img" aria-label="LearnX — The Future Learning">
+  <title>LearnX — The Future Learning</title>
+  <!-- wordmark: navy "Learn", sky-blue "X" -->
+  <text x="3" y="60" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-weight="800" font-size="60" letter-spacing="-1.5" fill="#062551">Learn<tspan fill="#0d9dd2">X</tspan></text>
+  <!-- red square accent on the X -->
+  <rect x="207" y="6" width="15" height="15" rx="2.5" fill="#a60612"/>
+  <!-- sky-blue swoosh under the wordmark -->
+  <path d="M4 70c60-9 140-11 214-3-72-3-150-1-214 9z" fill="#0d9dd2"/>
+  <!-- tagline -->
+  <text x="6" y="90" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#062551">The Future Learning</text>
+</svg>

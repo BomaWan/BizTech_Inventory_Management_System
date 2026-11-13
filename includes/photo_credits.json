@@ -1,0 +1,110 @@
+{
+    "seed_arduino_uno.jpg": {
+        "file": "File:Arduino Uno - R3.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Arduino_Uno_-_R3.jpg",
+        "author": "SparkFun Electronics from Boulder, USA",
+        "license": "CC BY 2.0"
+    },
+    "seed_bme280.jpg": {
+        "file": "File:SparkFun Atmospheric Sensor Breakout - BME280 13676.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:SparkFun_Atmospheric_Sensor_Breakout_-_BME280_13676.jpg",
+        "author": "SparkFun",
+        "license": "CC BY 2.0"
+    },
+    "seed_dht22.jpg": {
+        "file": "File:AM2302 (DHT22) digital temperature and humidity sensor module.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:AM2302_(DHT22)_digital_temperature_and_humidity_sensor_module.jpg",
+        "author": "Suyash Dwivedi",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_esp32.jpg": {
+        "file": "File:Espressif ESP-WROOM-32 Wi-Fi & Bluetooth Module.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Espressif_ESP-WROOM-32_Wi-Fi_%26_Bluetooth_Module.jpg",
+        "author": "Brian Krent",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_esp32_cam.jpg": {
+        "file": "File:ESP32-CAM.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:ESP32-CAM.jpg",
+        "author": "Nowforever",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_hcsr04.jpg": {
+        "file": "File:HC SR04 Ultrasonic Module.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:HC_SR04_Ultrasonic_Module.jpg",
+        "author": "Suyash Dwivedi",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_lora_ra02.png": {
+        "file": "File:Ra-02.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Ra-02.png",
+        "author": "VamosSandor",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_mpu6050.jpg": {
+        "file": "File:GY-521 MPU-6050 Module 3 Axis Gyroscope + Accelerometer 0487.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:GY-521_MPU-6050_Module_3_Axis_Gyroscope_%2B_Accelerometer_0487.jpg",
+        "author": "Nevit Dilmen (talk)",
+        "license": "CC BY-SA 3.0"
+    },
+    "seed_nema17.jpg": {
+        "file": "File:Nema 17 Stepper Motor.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Nema_17_Stepper_Motor.jpg",
+        "author": "oomlout",
+        "license": "CC BY-SA 2.0"
+    },
+    "seed_nodemcu_esp8266.jpg": {
+        "file": "File:NodeMCU DEVKIT 1.0.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:NodeMCU_DEVKIT_1.0.jpg",
+        "author": "Vowstar",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_nrf24l01.jpg": {
+        "file": "File:Nordic nRF24L01-9459.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Nordic_nRF24L01-9459.jpg",
+        "author": "Raimond Spekking",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_pi_zero_2w.jpg": {
+        "file": "File:Raspberry Pi Zero 2 W.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Raspberry_Pi_Zero_2_W.jpg",
+        "author": "Laserlicht",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_pico_w.jpg": {
+        "file": "File:RPI PICO W 1.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:RPI_PICO_W_1.jpg",
+        "author": "SparkFun Electronics",
+        "license": "CC BY 2.0"
+    },
+    "seed_rc522.jpg": {
+        "file": "File:RFID-RC522 photo.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:RFID-RC522_photo.jpg",
+        "author": "Giacomo Alessandroni",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_relay_1ch.jpg": {
+        "file": "File:SRD-05VDC-SL-C 5V one-channel relay module.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:SRD-05VDC-SL-C_5V_one-channel_relay_module.jpg",
+        "author": "Suyash Dwivedi",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_rpi4.jpg": {
+        "file": "File:Raspberry Pi 4 Model B - Top.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Raspberry_Pi_4_Model_B_-_Top.jpg",
+        "author": "Laserlicht",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_sg90.jpg": {
+        "file": "File:Tower Pro SG90 micro servo motor.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Tower_Pro_SG90_micro_servo_motor.jpg",
+        "author": "Suyash Dwivedi",
+        "license": "CC BY-SA 4.0"
+    },
+    "seed_xbee_pro.jpg": {
+        "file": "File:XBee Pro 900 XSC RPSMA.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:XBee_Pro_900_XSC_RPSMA.jpg",
+        "author": "SparkFun Electronics from Boulder, USA",
+        "license": "CC BY 2.0"
+    }
+}
